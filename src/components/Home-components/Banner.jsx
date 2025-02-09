@@ -18,7 +18,8 @@ const Banner = () => {
             Lets convert your creativity in the next level with Pic-Seek-AI.🎯
             Find, Analyze & Explore Images Smarter with AI!
           </p>
-          <button className="btn btn-primary">Get Started</button>
+          <a href="/creations" className="btn btn-primary">Get Started</a>
+
         </div>
       </div>
     </div>
